@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>61F52CF7-C07E-4927-AE0E-73AF72FE77AC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>795B0A7D5EC03B4D75B24C7B68DA1AFBE1C6509F</key>
+		<string>https://github.com/arhamahmed/UniTranslate.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UniTranslate.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>795B0A7D5EC03B4D75B24C7B68DA1AFBE1C6509F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/arhamahmed/UniTranslate.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>795B0A7D5EC03B4D75B24C7B68DA1AFBE1C6509F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>795B0A7D5EC03B4D75B24C7B68DA1AFBE1C6509F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UniTranslate</string>
+		</dict>
+	</array>
+</dict>
+</plist>
