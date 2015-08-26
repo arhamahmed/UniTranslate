@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>61F52CF7-C07E-4927-AE0E-73AF72FE77AC</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>UniTranslate</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>795B0A7D5EC03B4D75B24C7B68DA1AFBE1C6509F</key>
 		<string>https://github.com/arhamahmed/UniTranslate.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>UniTranslate.xcodeproj/project.xcworkspace</string>
+	<string>UniTranslate.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>795B0A7D5EC03B4D75B24C7B68DA1AFBE1C6509F</key>
